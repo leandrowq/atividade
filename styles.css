@@ -1,0 +1,173 @@
+.e0_3 { 
+	overflow:hidden;
+}
+.background { 
+	background-color:rgb(248, 243, 243);
+	width:1391px;
+	height:856px;
+	position:absolute;
+}
+.retangulo { 
+	background-color:rgb(24, 158, 236);
+	width:1391px;
+	height:91px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.texto1 { 
+	color:rgb(245, 240, 240);
+	width:503px;
+	height:54px;
+	position:absolute;
+	left:-35px;
+	top:19px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.retangulo2 { 
+	background-color:rgb(245, 221, 11);
+	width:232px;
+	height:46px;
+	position:absolute;
+	left:1135px;
+	top:19px;
+}
+.texto2 { 
+	color:rgb(238, 162, 11);
+	width:74px;
+	height:24px;
+	position:absolute;
+	left:1135px;
+	top:27px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.texto3 { 
+	color:rgb(251, 153, 7);
+	width:77px;
+	height:24px;
+	position:absolute;
+	left:1209px;
+	top:27px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.texto4 { 
+	color:rgb(235, 145, 11);
+	width:77px;
+	height:24px;
+	position:absolute;
+	left:1290px;
+	top:27px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.retangulo3 { 
+	background-color:rgb(241, 245, 10);
+	width:329px;
+	height:765px;
+	position:absolute;
+	left:0px;
+	top:91px;
+}
+.texto5 { 
+	color:rgb(63, 112, 237);
+	width:117px;
+	height:24px;
+	position:absolute;
+	left:99px;
+	top:115px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.imagem1 { 
+	width:296px;
+	height:189px;
+	position:absolute;
+	left:16px;
+	top:153px;
+	background-image:url(images/natureza.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.retangulo4 { 
+	background-color:rgb(24, 167, 248);
+	width:1391px;
+	height:63px;
+	position:absolute;
+	left:0px;
+	top:793px;
+}
+.texto6 { 
+	color:rgba(255, 255, 255, 1);
+	width:298px;
+	height:57px;
+	position:absolute;
+	left:546px;
+	top:796px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.retangulo5 { 
+	background-color:rgb(241, 151, 16);
+	width:818px;
+	height:705px;
+	position:absolute;
+	left:329px;
+	top:91px;
+}
+.retangulo6 { 
+	background-color:rgb(243, 166, 11);
+	width:280px;
+	height:702px;
+	position:absolute;
+	left:1111px;
+	top:91px;
+}
+.retangulo7 { 
+	width:270px;
+	height:285px;
+	position:absolute;
+	left:1116px;
+	top:474px;
+	background-image:url(images/passaro.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.texto7 { 
+	color:rgba(0, 0, 0, 1);
+	width:674px;
+	height:319px;
+	position:absolute;
+	left:378px;
+	top:116px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.texto8 { 
+	color:rgba(0, 0, 0, 1);
+	width:244px;
+	height:290px;
+	position:absolute;
+	left:1126px;
+	top:118px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
